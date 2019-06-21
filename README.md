@@ -1,7 +1,20 @@
-# GitPress Boilerplate
+# profile
 
-Fork me to start using [GitPress](https://gitpress.io)
+## who am i
 
-Posts are placed in `/source` folder, so fill the directory with `/source`
+近畿大学理工学部情報学科システムコース三年.
 
-![](https://github.com/gitpress-io/boilerplate/blob/master/screenshot.jpg)
+主にTwitterに生息しています.
+
+趣味は音楽を聞くこと歌うこと演奏すること.最近はspotifyを契約してずっと音楽聴いてます.
+
+## skills
+
+個人ではPythonとElixirを, 学校ではJavaを使用しています.
+
+今はGoを勉強中です.
+
+基本的にCUIアプリケーションを作っています.
+
+
+
