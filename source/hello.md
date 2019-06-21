@@ -1,13 +1,20 @@
----
-title: Say Hello to the world
-date: 2019-02-07
----
+# profile
 
-## Hello world
+## who am i
 
-Welcome to GitPress. This is your first post.
+近畿大学理工学部情報学科システムコース三年.
 
-## Useful links
+主にTwitterに生息しています.
 
-- Website: https://gitpress.io
-- Getting Started: https://gitpress.io/c/help/welcome
+趣味は音楽を聞くこと歌うこと演奏すること.最近はspotifyを契約してずっと音楽聴いてます.
+
+## skills
+
+個人ではPythonとElixirを, 学校ではJavaを使用しています.
+
+今はGoを勉強中です.
+
+基本的にCUIアプリケーションを作っています.
+
+
+
